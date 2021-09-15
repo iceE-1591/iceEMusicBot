@@ -1,0 +1,2 @@
+# iceEMusicBot
+Discord Music Bot.
